@@ -1,0 +1,18 @@
+.basic-class {
+    background-color: rgb(255, 192, 203);
+    font: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#second-id {
+    color: rgb(0,0,255);
+    font-size: 36px;
+}
+
+#fourth-id {
+    background-color: rgb(144,238,144);
+    font-weight: bold;
+}
+
+.third-class {
+    font-size: 24px;
+}
