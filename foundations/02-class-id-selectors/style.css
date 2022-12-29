@@ -1,6 +1,6 @@
 .basic-class {
     background-color: rgb(255, 192, 203);
-    font: Verdana, "DejaVu Sans", sans-serif;
+    font-family: "Verdana, "DejaVu Sans", "sans-serif";
 }
 
 #second-id {
